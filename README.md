@@ -1,11 +1,8 @@
-<h1 align="center">Hi 👋, I'm Arsonist Tefh</h1>
+<h1 align="center">Hello 👋, Je m'appelle Arsonist Tefh</h1>
 <h3 align="center">Passionné par le développement et la création de projets. Vous trouverez ici une collection de mes projets personnels.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arsonist932&label=Profile%20views&color=0e75b6&style=flat" alt="arsonist932" /> </p>
 
-- 💬 Ask me about **React, NextJS, MongoDB**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
